@@ -15,12 +15,6 @@
     alt="Typing specialization"
   />
 </p>
-
-<p align="center">
-  <strong>Data Analyst</strong> focused on transforming raw data into clear, decision-ready insights through analysis, modeling, and intuitive visualizations.  
-  I enjoy working end-to-end — from exploratory analysis and feature engineering to dashboards and insight-driven applications — with a strong emphasis on business impact.
-</p>
-
 <div align="center">
   <a href="mailto:ntandoofficial60@gmail.com">
     <img 
@@ -29,6 +23,13 @@
     />
   </a>
 </div>
+
+<p align="center">
+  <strong>Data Analyst</strong> focused on transforming raw data into clear, decision-ready insights through analysis, modeling, and intuitive visualizations.  
+  I enjoy working end-to-end — from exploratory analysis and feature engineering to dashboards and insight-driven applications — with a strong emphasis on business impact.
+</p>
+
+
 
 <hr>
 
@@ -49,49 +50,3 @@
 </p>
 
 <hr>
-
-<h2>📁 Featured Projects</h2>
-
-<h3>🔹 Customer Churn Prediction Web Application</h3>
-<ul>
-  <li>Built a machine learning application to identify at-risk telecom customers</li>
-  <li>Trained and evaluated a Logistic Regression model achieving <strong>88.5% accuracy</strong></li>
-  <li>Integrated predictive insights into an intuitive web interface for real-time analysis</li>
-</ul>
-
-<h3>🔹 Online Retail Performance & Revenue Loss Dashboard</h3>
-<ul>
-  <li>Designed an interactive dashboard to analyze revenue loss from returns and cancellations</li>
-  <li>Visualized gross vs realized revenue, return rates, and cancellation impact</li>
-  <li>Enabled clearer financial decision-making through business-focused metrics</li>
-</ul>
-
-<h3>🔹 RFM-Based Customer Segmentation & Sales Trends Analysis</h3>
-<ul>
-  <li>Implemented RFM segmentation to evaluate customer value and purchasing behavior</li>
-  <li>Analyzed seasonality, sales trends, and segment-level performance</li>
-  <li>Identified high-impact customer groups and optimal campaign periods</li>
-</ul>
-
-<hr>
-
-<h2>📌 What This Profile Shows</h2>
-
-<ul>
-  <li>✔ Clear specialization in <strong>Data Analytics & Business Intelligence</strong></li>
-  <li>✔ Projects aligned with <strong>real business problems</strong></li>
-  <li>✔ Practical use of <strong>Python, SQL, Power BI, and analytics workflows</strong></li>
-  <li>✔ Consistent focus on <strong>decision-making and impact</strong></li>
-</ul>
-
-<p>
-  <em>Note:</em> Some professional work is completed in private repositories.  
-  This profile highlights representative projects and ongoing learning.
-</p>
-
-<hr>
-
-<p align="center">
-  <strong>Open to entry-level Data Analyst / BI Analyst opportunities</strong><br>
-  Interested in analytics roles where data informs strategy, operations, and growth.
-</p>
