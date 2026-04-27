@@ -1,6 +1,16 @@
+<!-- ===================== -->
+<!-- BANNER -->
+<!-- ===================== -->
+
 <img src="https://raw.githubusercontent.com/NtandoNkuna/NtandoNkuna/main/data-analysis-banner-vector.jpg"
      alt="Data analysis banner"
      width="100%" />
+
+<br><br>
+
+<!-- ===================== -->
+<!-- HEADER -->
+<!-- ===================== -->
 
 <h1 align="left">
   <img 
@@ -9,12 +19,24 @@
   />
 </h1>
 
+<br>
+
+<!-- ===================== -->
+<!-- SUBTITLE / ROLE -->
+<!-- ===================== -->
+
 <p align="left">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=false&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analytics+for+Decision-Making+and+Growth"
     alt="Typing specialization"
   />
 </p>
+
+<br>
+
+<!-- ===================== -->
+<!-- CONTACT -->
+<!-- ===================== -->
 
 <div align="left">
   <a href="mailto:ntandoofficial60@gmail.com">
@@ -25,17 +47,36 @@
   </a>
 </div>
 
+<br><br>
+
+<!-- ===================== -->
+<!-- ABOUT -->
+<!-- ===================== -->
+
 <p align="left">
   <strong>Data Analyst</strong> focused on transforming raw data into clear, decision-ready insights through analysis, modeling, and intuitive visualizations.  
+  <br><br>
   I enjoy working end-to-end — from exploratory analysis and feature engineering to dashboards and insight-driven applications — with a strong emphasis on business impact.
 </p>
 
+<br>
+
 <hr>
+
+<br>
+
+<!-- ===================== -->
+<!-- SKILLS SECTION -->
+<!-- ===================== -->
 
 <h2 align="left">🛠️ Core Skills & Tools</h2>
 
+<br>
+
+<!-- DATA STACK -->
 <p align="left">
-  <!-- Data & Analytics -->
+  <strong>Data & Analytics</strong>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=python,postgres,sqlite" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" />
@@ -43,9 +84,15 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
+<br>
+
+<!-- DEVELOPMENT TOOLS -->
 <p align="left">
-  <!-- Development & Workflow -->
+  <strong>Development & Workflow</strong>
+  <br><br>
   <img src="https://skillicons.dev/icons?i=jupyter,vscode,js,html,css,git,figma" />
 </p>
+
+<br>
 
 <hr>
