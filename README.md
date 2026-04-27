@@ -45,9 +45,14 @@
 <!-- ABOUT (ONLY ONE LINE GAP AFTER EMAIL) -->
 <!-- ===================== -->
 
+<h3 align="left">Data Analyst</h3>
+
 <p align="left">
-  <strong>Data Analyst</strong> focused on transforming raw data into clear, decision-ready insights through analysis, modeling, and intuitive visualizations.  
-  I enjoy working end-to-end — from exploratory analysis and feature engineering to dashboards and insight-driven applications — with a strong emphasis on business impact.
+  Focused on transforming raw data into <strong>clear, decision-ready insights</strong> through analysis, modeling, and intuitive visualizations.
+</p>
+
+<p align="left">
+  I enjoy working end-to-end — from <strong>exploratory analysis</strong> and <strong>feature engineering</strong> to <strong>dashboards</strong> and insight-driven applications — with a strong emphasis on <strong>business impact</strong>.
 </p>
 
 <hr>
