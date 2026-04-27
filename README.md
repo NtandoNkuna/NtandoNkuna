@@ -4,14 +4,14 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1000&color=4493F8&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+👋;I'm+Ntando+Nkuna"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1000&color=4493F8&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Ntando+Nkuna"
     alt="Typing animation header"
   />
 </h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analytics+%7C+SQL+%7C+Python+%7C+Dashboards;From+Raw+Data+to+Decision-Ready+Insights"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights"
     alt="Typing SVG"
   />
 </p>
