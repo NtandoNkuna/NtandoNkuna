@@ -28,3 +28,20 @@
 </div>
 
 <hr>
+
+
+<p align="center">
+  <!-- Data & Analytics -->
+  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <!-- Development & Tools -->
+  <img src="https://skillicons.dev/icons?i=jupyter,vscode,js,html,css,git,figma" />
+</p>
+
+<hr>
