@@ -2,20 +2,21 @@
      alt="Data analysis banner"
      width="100%" />
 
-<h1 align="center">
+<h1 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1200&color=4493F8&center=true&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Ntando+Nkuna"
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1200&color=4493F8&center=false&vCenter=true&width=800&lines=Hi+There!+👋;I'm+Ntando+Nkuna"
     alt="Typing header"
   />
 </h1>
 
-<p align="center">
+<p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analytics+for+Decision-Making+and+Growth"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=false&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Analytics+for+Decision-Making+and+Growth"
     alt="Typing specialization"
   />
 </p>
-<div align="center">
+
+<div align="left">
   <a href="mailto:ntandoofficial60@gmail.com">
     <img 
       src="https://img.shields.io/badge/Contact%20Me-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
@@ -24,18 +25,16 @@
   </a>
 </div>
 
-<p align="center">
+<p align="left">
   <strong>Data Analyst</strong> focused on transforming raw data into clear, decision-ready insights through analysis, modeling, and intuitive visualizations.  
   I enjoy working end-to-end — from exploratory analysis and feature engineering to dashboards and insight-driven applications — with a strong emphasis on business impact.
 </p>
 
-
-
 <hr>
 
-<h2 align="center">🛠️ Core Skills & Tools</h2>
+<h2 align="left">🛠️ Core Skills & Tools</h2>
 
-<p align="center">
+<p align="left">
   <!-- Data & Analytics -->
   <img src="https://skillicons.dev/icons?i=python,postgres,sqlite" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -44,7 +43,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Development & Workflow -->
   <img src="https://skillicons.dev/icons?i=jupyter,vscode,js,html,css,git,figma" />
 </p>
