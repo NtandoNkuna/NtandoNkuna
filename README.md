@@ -1,4 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{NtandoNkuna}/count.svg" alt="Visitor's Count" />
-</div>
+<img src="https://raw.githubusercontent.com/NtandoNkuna/NtandoNkuna/main/data-analysis-banner-vector.jpg"
+     alt="Data analysis banner"
+     width="100%" />
