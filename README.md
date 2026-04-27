@@ -17,3 +17,14 @@
 <p align="center">
   A data analyst passionate about building practical, insight-driven solutions that transform raw data into clear, actionable intelligence through analysis, visualization, and intuitive applications.
 </p>
+
+<div align="center">
+  <a href="mailto:ntandoofficial60@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
+      alt="Email Ntando Nkuna"
+    />
+  </a>
+</div>
+
+<hr>
