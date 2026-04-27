@@ -3,8 +3,10 @@
      width="100%" />
 
 <h1 align="center">
-  Hi There! 👋 <br />
-  I'm Ntando Nkuna
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=48&pause=1000&color=4493F8&center=true&vCenter=true&width=700&height=80&lines=Hi+There!+👋;I'm+Ntando+Nkuna"
+    alt="Typing animation header"
+  />
 </h1>
 
 <p align="center">
